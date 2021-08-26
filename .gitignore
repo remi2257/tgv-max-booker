@@ -1,0 +1,5 @@
+# npm Packages
+node_modules/
+
+# Screenshot
+*.png

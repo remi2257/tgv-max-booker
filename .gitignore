@@ -1,5 +1,4 @@
 # npm Packages
 node_modules/
 
-# Screenshot
-*.png
+test_save.json
